@@ -2,7 +2,7 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](404 - PAGE NOT FOUND)
+- [📖 About the Project](TEAM PAGE)
   - [🛠 Built With](#HTML & #CSS)
     <!-- - [Tech Stack](#tech-stack) -->
     <!-- - [Key Features](#key-features) -->
@@ -26,7 +26,7 @@ PROJECT DESCRIPTION
 
 <!-- # 📖 [Git collaboration] <a name="Vishwanath's Pearls-Hacklag"></a> -->
 
-404 PAGE NOT FOUND
+TEAM PAGE
 ## 🛠 Built With <a name="HTML & CSS"></a>
 
 <!-- ### Tech Stack <a name="tech-stack"></a> -->
